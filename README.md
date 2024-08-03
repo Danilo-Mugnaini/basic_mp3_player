@@ -43,10 +43,12 @@ A simple music player application developed using Python and Pygame. The applica
 3. **Controls**:
    - Press `1` to play the music.
    - Press `2` to exit the application.
+   - Select song name
+   - Select artist name
    - During playback:
-     - Press `p` to pause.
+     - Press `Enter` to pause.
      - Press `r` to resume.
-     - Press `s` to stop.
+     - Press `e` to exit.
 
 ## License
 
